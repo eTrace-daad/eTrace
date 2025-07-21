@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "361503720503",
+    "project_id": "etrace-407fc",
+    "storage_bucket": "etrace-407fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361503720503:android:a94258e8767fde6746abb2",
+        "android_client_info": {
+          "package_name": "app.devanios.etrace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361503720503-0pclnvp941i5l5dsqlapt8he42g2aevm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeLC7LZCxCmJu_FYtVIQpjKretI-CbInE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361503720503-0pclnvp941i5l5dsqlapt8he42g2aevm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "361503720503-cl45d1menkmostbn9jsdqcrir7nvusqu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.devanios.etrace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
